@@ -52,7 +52,7 @@ Customization
 Update Navbar Links: Modify the navigation links in Navbar.js to match your desired section IDs.
 
 Deployment
-Deploy your portfolio website to platforms like Netlify, Vercel, or GitHub Pages.
+Any one of you like Netlify, Vercel, or GitHub Pages go for the deployment
 
-Email: piyushpakmode0924@gmail.com@example.com
+Email: piyushpakmode0924@gmail.com
 LinkedIn: www.linkedin.com/in/contact-piyush-pakmode/
