@@ -19,24 +19,31 @@ Create React App (CRA): For setting up the project structure.
 React Scroll: For smooth scrolling between sections.
 CSS/SCSS/Tailwind CSS: For styling the website (customize as per your choice).
 
-Installation and Setup
-Follow these steps to run the project locally:
 
-Clone the repository:
 
-bash
-Copy
-Edit
-npm install
+## How to Run
 
-Start the development server:
-bash
-Copy
-Edit
-npm start
+1. **Clone the Repository:**
 
-Open the app in your browser: Navigate to http://localhost:3000 to view the portfolio.
-How It Works
+   ```bash
+   git clone gh repo clone https://github.com/Piyush0924/Portfolio_Unified_Mentor
+.git
+   ```
+
+2. **Install the dependencies:**
+
+   ```bash
+   npm i
+   cd Portfolio_Unified_Mentor && npm i
+   ```
+
+3. **Running the Project Locally:** Navigate to the project's root directory and run the following commands
+
+   ```bash
+
+   # Run the react frontend
+   npm run start
+
 
 Navbar: Links to sections like Home, About, Projects, and Contact. Implemented with react-scroll for smooth scrolling.
 Sections: Each section is a reusable React component rendered in the main App.js.
